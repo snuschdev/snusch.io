@@ -2,7 +2,7 @@ export const EXPERIENCES = [
   {
     title: 'Software Engineer II',
     company: 'Microsoft',
-    duration: '0/2021 - Current',
+    duration: '07/2021 - Current',
     description: (
       <>
         <p>
